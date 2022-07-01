@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "prdpDv87TrCEiH9QJmC+cLTP2H4VnL37D6pKvjKAxc2vKOdxkyZf3NygoOjNl6JobjzeXFwKk+9s2T73yJrB6g==",
+  "success": true,
+  "projectFilePath": "/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/HRLeaveManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/daviddamljanovic/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/daviddamljanovic/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/daviddamljanovic/.nuget/packages/fluentvalidation/11.1.0/fluentvalidation.11.1.0.nupkg.sha512",
+    "/Users/daviddamljanovic/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.1.0/fluentvalidation.dependencyinjectionextensions.11.1.0.nupkg.sha512",
+    "/Users/daviddamljanovic/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/daviddamljanovic/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/daviddamljanovic/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/10.0.1/mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "/Users/daviddamljanovic/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/daviddamljanovic/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/daviddamljanovic/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/daviddamljanovic/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/daviddamljanovic/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

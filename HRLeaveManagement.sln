@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1CD6E839-397B-4FC7-A37D-6865300F6936}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{F75BBA85-73AD-4692-9D64-E6BAF51F7E91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{A949081A-2348-47D4-A699-E1F6CDBC9B05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{F2D471F4-5CBC-4952-B5D7-4E7983E9BEEB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{A5395D9A-601E-4E53-8314-E9B390BB9257}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{065A7453-81E0-4BAD-AD88-2A8E6A299E1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRLeaveManagement.Domain", "HRLeaveManagement.Domain\HRLeaveManagement.Domain.csproj", "{54D56001-1722-49A6-B4AC-8C54BEDADF71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRLeaveManagement.Application", "HRLeaveManagement.Domain\HRLeaveManagement.Application\HRLeaveManagement.Application.csproj", "{4AB398AD-817A-44C1-88A1-4A2E315717DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRLeaveManagement.Persistance", "HRLeaveManagement.Persistance\HRLeaveManagement.Persistance.csproj", "{01BB9026-4470-455F-ABBD-4C8F89F751B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRLeaveManagement.Infrastructure", "HRLeaveManagement.Persistance\HRLeaveManagement.Infrastructure\HRLeaveManagement.Infrastructure.csproj", "{B92C62E2-0F91-4857-88D4-F0397E040AF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54D56001-1722-49A6-B4AC-8C54BEDADF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D56001-1722-49A6-B4AC-8C54BEDADF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D56001-1722-49A6-B4AC-8C54BEDADF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D56001-1722-49A6-B4AC-8C54BEDADF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB398AD-817A-44C1-88A1-4A2E315717DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB398AD-817A-44C1-88A1-4A2E315717DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB398AD-817A-44C1-88A1-4A2E315717DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB398AD-817A-44C1-88A1-4A2E315717DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01BB9026-4470-455F-ABBD-4C8F89F751B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BB9026-4470-455F-ABBD-4C8F89F751B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BB9026-4470-455F-ABBD-4C8F89F751B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BB9026-4470-455F-ABBD-4C8F89F751B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B92C62E2-0F91-4857-88D4-F0397E040AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92C62E2-0F91-4857-88D4-F0397E040AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92C62E2-0F91-4857-88D4-F0397E040AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92C62E2-0F91-4857-88D4-F0397E040AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D9AB915-D655-4D36-94D3-AE390E1B5875}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A949081A-2348-47D4-A699-E1F6CDBC9B05} = {1CD6E839-397B-4FC7-A37D-6865300F6936}
+		{F2D471F4-5CBC-4952-B5D7-4E7983E9BEEB} = {1CD6E839-397B-4FC7-A37D-6865300F6936}
+		{A5395D9A-601E-4E53-8314-E9B390BB9257} = {1CD6E839-397B-4FC7-A37D-6865300F6936}
+		{065A7453-81E0-4BAD-AD88-2A8E6A299E1A} = {1CD6E839-397B-4FC7-A37D-6865300F6936}
+		{54D56001-1722-49A6-B4AC-8C54BEDADF71} = {065A7453-81E0-4BAD-AD88-2A8E6A299E1A}
+		{4AB398AD-817A-44C1-88A1-4A2E315717DF} = {065A7453-81E0-4BAD-AD88-2A8E6A299E1A}
+		{01BB9026-4470-455F-ABBD-4C8F89F751B2} = {F2D471F4-5CBC-4952-B5D7-4E7983E9BEEB}
+		{B92C62E2-0F91-4857-88D4-F0397E040AF6} = {F2D471F4-5CBC-4952-B5D7-4E7983E9BEEB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/bin/Debug/net6.0/HRLeaveManagement.Application.deps.json
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/bin/Debug/net6.0/HRLeaveManagement.Application.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/bin/Debug/net6.0/HRLeaveManagement.Application.pdb
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/obj/Debug/net6.0/HRLeaveManagement.Application.csproj.AssemblyReference.cache
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/obj/Debug/net6.0/HRLeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/obj/Debug/net6.0/HRLeaveManagement.Application.AssemblyInfoInputs.cache
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/obj/Debug/net6.0/HRLeaveManagement.Application.AssemblyInfo.cs
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/obj/Debug/net6.0/HRLeaveManagement.Application.csproj.CoreCompileInputs.cache
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/obj/Debug/net6.0/HRLeaveManagement.Application.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/obj/Debug/net6.0/refint/HRLeaveManagement.Application.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/obj/Debug/net6.0/HRLeaveManagement.Application.pdb
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/obj/Debug/net6.0/ref/HRLeaveManagement.Application.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/bin/Debug/net6.0/HRLeaveManagement.Domain.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/bin/Debug/net6.0/HRLeaveManagement.Domain.pdb
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/HRLeaveManagement.Application/obj/Debug/net6.0/HRLeaveManagement.Application.csproj.CopyComplete

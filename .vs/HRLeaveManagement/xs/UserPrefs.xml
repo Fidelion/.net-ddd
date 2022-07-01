@@ -1,0 +1,108 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <DisabledProjects>
+    <String>HRLeaveManagement.Domain/HRLeaveManagement.Application/HRLeaveManagement.Application.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workbench ActiveDocument="HRLeaveManagement.Persistance/Repositories/GenericRepository.cs">
+    <Files>
+      <File FileName="HRLeaveManagement.Domain/Class1.cs" Line="1" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/Common/BaseDomainEntity.cs" Line="18" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/LeaveAllocation.cs" Line="20" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/LeaveType.cs" Line="14" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/LeaveRequest.cs" Line="6" Column="49" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Domain.csproj" Line="17" Column="14" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/Common/BaseDto.cs" Line="10" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveAllocation/CreateLeaveAllocationDto.cs" Line="10" Column="2" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveAllocation/ILeaveAllocationDto.cs" Line="10" Column="2" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveAllocation/LeaveAllocationDto.cs" Line="15" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveAllocation/UpdateLeaveAllocationDto.cs" Line="14" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveType/CreateLeaveTypeDto.cs" Line="3" Column="2" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveType/ILeaveTypeDto.cs" Line="9" Column="2" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveType/LeaveTypeDto.cs" Line="10" Column="6" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveRequest/ILeaveRequestDto.cs" Line="11" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveRequest/LeaveRequestDto.cs" Line="15" Column="25" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveRequest/LeaveRequestListDto.cs" Line="13" Column="2" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveRequest/CreateLeaveRequestDto.cs" Line="10" Column="6" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveRequest/UpdateLeaveRequestDto.cs" Line="12" Column="42" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Contracts/Persistance/IGenericRepository.cs" Line="15" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Contracts/Persistance/ILeaveAllocationRepository.cs" Line="11" Column="2" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Contracts/Persistance/ILeaveRequestRepository.cs" Line="10" Column="20" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Contracts/Persistance/ILeaveTypeRepository.cs" Line="10" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveAllocation/Validators/ILeaveAllocationDtoValidator.cs" Line="14" Column="40" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveAllocation/Validators/UpdateLeaveAllocationDtoValidator.cs" Line="10" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveRequest/Validators/CreateLeaveRequestDtoValidator.cs" Line="16" Column="6" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveRequest/Validators/ILeaveRequestDtoValidator.cs" Line="14" Column="15" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveRequest/Validators/UpdateLeaveRequestDtoValidator.cs" Line="15" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveType/Validators/CreateLeaveTypeDtoValidator.cs" Line="10" Column="51" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveType/Validators/ILeaveTypeDtoValidator.cs" Line="5" Column="2" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveType/Validators/UpdateLeaveTypeDtoValidator.cs" Line="17" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Responses/BaseCommandResponse.cs" Line="11" Column="2" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Profiles/MappingProfile.cs" Line="29" Column="2" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Exceptions/BadRequestException.cs" Line="11" Column="2" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Exceptions/NotFoundException.cs" Line="13" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Exceptions/ValidationException.cs" Line="10" Column="16" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveAllocations/Requests/Commands/CreateLeaveAllocationCommand.cs" Line="12" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveAllocations/Requests/Commands/DeleteLeaveAllocationCommand.cs" Line="12" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveAllocations/Requests/Commands/UpdateLeaveAllocationCommand.cs" Line="13" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveAllocations/Handlers/Commands/CreateLeaveAllocationCommandHandler.cs" Line="29" Column="74" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveAllocations/Handlers/Commands/DeleteLeaveAllocationCommandHandler.cs" Line="30" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveAllocations/Handlers/Commands/UpdateLeaveAllocationCommandHandler.cs" Line="25" Column="10" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveAllocations/Handlers/Queries/GetLeaveAllocationListRequestHandler.cs" Line="23" Column="10" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveRequests/Requests/Commands/CreateLeaveRequestCommand.cs" Line="10" Column="26" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveRequests/Requests/Commands/DeleteLeaveRequestCommand.cs" Line="12" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveRequests/Requests/Commands/UpdateLeaveRequestCommand.cs" Line="18" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/DTOs/LeaveRequest/ChangeLeaveRequestApprovalDto.cs" Line="6" Column="53" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveRequests/Requests/Queries/GetLeaveRequestDetailQuery.cs" Line="7" Column="37" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveRequests/Requests/Queries/GetLeaveRequestListQuery.cs" Line="8" Column="6" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveRequests/Handlers/Commands/CreateLeaveRequestCommandHandler.cs" Line="35" Column="14" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveRequests/Handlers/Commands/DeleteLeaveRequestCommandHandler.cs" Line="27" Column="54" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveRequests/Handlers/Commands/UpdateLeaveRequestCommandHandler.cs" Line="44" Column="14" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveRequests/Handlers/Queries/GetLeaveRequestDetailQueryHandler.cs" Line="21" Column="77" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveRequests/Handlers/Queries/GetLeaveRequestListQueryHandler.cs" Line="27" Column="6" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveTypes/Requests/Commands/CreateLeaveTypeCommand.cs" Line="11" Column="2" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveTypes/Requests/Commands/DeleteLeaveTypeCommand.cs" Line="10" Column="2" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveTypes/Requests/Commands/UpdateLeaveTypeCommand.cs" Line="13" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveTypes/Requests/Queries/GetLeaveTypeDetailQuery.cs" Line="11" Column="2" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveTypes/Requests/Queries/GetLeaveTypeListQuery.cs" Line="11" Column="1" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveTypes/Handlers/Commands/CreateLeaveTypeCommandHandler.cs" Line="26" Column="23" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveTypes/Handlers/Commands/DeleteLeaveTypeCommandHandler.cs" Line="22" Column="34" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveTypes/Handlers/Commands/UpdateLeaveTypeCommandHandler.cs" Line="27" Column="33" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveTypes/Handlers/Queries/GetLeaveTypeDetailQueryHandler.cs" Line="20" Column="27" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/Features/LeaveTypes/Handlers/Queries/GetLeaveTypeListQueryHandler.cs" Line="19" Column="10" />
+      <File FileName="HRLeaveManagement.Domain/HRLeaveManagement.Application/ApplicationServicesRegistration.cs" Line="15" Column="29" />
+      <File FileName="HRLeaveManagement.Persistance/HRLeaveManagement.Infrastructure/Class1.cs" Line="3" Column="2" />
+      <File FileName="HRLeaveManagement.Persistance/HRLeaveManagement.Persistance.csproj" Line="9" Column="19" />
+      <File FileName="HRLeaveManagement.Persistance/Repositories/GenericRepository.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HRLeaveManagement" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="HRLeaveManagement.Application" expanded="True">
+                  <Node name="Contracts" expanded="True">
+                    <Node name="Persistance" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Infrastructure" expanded="True">
+                <Node name="HRLeaveManagement.Persistance" expanded="True">
+                  <Node name="Repositories" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

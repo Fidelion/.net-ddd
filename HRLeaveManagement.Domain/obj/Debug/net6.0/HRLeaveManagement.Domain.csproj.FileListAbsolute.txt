@@ -1,0 +1,10 @@
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/obj/Debug/net6.0/HRLeaveManagement.Domain.csproj.AssemblyReference.cache
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/obj/Debug/net6.0/HRLeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/obj/Debug/net6.0/HRLeaveManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/bin/Debug/net6.0/HRLeaveManagement.Domain.deps.json
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/bin/Debug/net6.0/HRLeaveManagement.Domain.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/bin/Debug/net6.0/HRLeaveManagement.Domain.pdb
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/obj/Debug/net6.0/HRLeaveManagement.Domain.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/obj/Debug/net6.0/refint/HRLeaveManagement.Domain.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/obj/Debug/net6.0/HRLeaveManagement.Domain.pdb
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Domain/obj/Debug/net6.0/ref/HRLeaveManagement.Domain.dll

@@ -1,0 +1,15 @@
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/obj/Debug/net6.0/HRLeaveManagement.Persistance.csproj.AssemblyReference.cache
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/obj/Debug/net6.0/HRLeaveManagement.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/obj/Debug/net6.0/HRLeaveManagement.Persistance.csproj.CoreCompileInputs.cache
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/bin/Debug/net6.0/HRLeaveManagement.Persistance.deps.json
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/bin/Debug/net6.0/HRLeaveManagement.Persistance.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/bin/Debug/net6.0/HRLeaveManagement.Persistance.pdb
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/bin/Debug/net6.0/HRLeaveManagement.Application.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/bin/Debug/net6.0/HRLeaveManagement.Domain.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/bin/Debug/net6.0/HRLeaveManagement.Application.pdb
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/bin/Debug/net6.0/HRLeaveManagement.Domain.pdb
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/obj/Debug/net6.0/HRLeaveManagement.Persistance.csproj.CopyComplete
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/obj/Debug/net6.0/HRLeaveManagement.Persistance.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/obj/Debug/net6.0/refint/HRLeaveManagement.Persistance.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/obj/Debug/net6.0/HRLeaveManagement.Persistance.pdb
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/obj/Debug/net6.0/ref/HRLeaveManagement.Persistance.dll
