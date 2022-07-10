@@ -13,3 +13,5 @@
 /Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/obj/Debug/net6.0/refint/HRLeaveManagement.Persistance.dll
 /Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/obj/Debug/net6.0/HRLeaveManagement.Persistance.pdb
 /Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/obj/Debug/net6.0/ref/HRLeaveManagement.Persistance.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/bin/Debug/net6.0/HRLeaveManagement.Persistance.runtimeconfig.json
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/obj/Debug/net6.0/HRLeaveManagement.Persistance.genruntimeconfig.cache

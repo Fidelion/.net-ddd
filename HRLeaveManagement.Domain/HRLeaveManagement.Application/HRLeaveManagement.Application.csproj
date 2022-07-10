@@ -45,6 +45,8 @@
     <None Remove="Features\LeaveTypes\Handlers\Queries\" />
     <None Remove="Features\LeaveTypes\Requests\Commands\" />
     <None Remove="Features\LeaveTypes\Requests\Queries\" />
+    <None Remove="Models\" />
+    <None Remove="Contracts\Infrastructure\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DTOs\" />
@@ -82,6 +84,8 @@
     <Folder Include="Features\LeaveTypes\Handlers\Queries\" />
     <Folder Include="Features\LeaveTypes\Requests\Commands\" />
     <Folder Include="Features\LeaveTypes\Requests\Queries\" />
+    <Folder Include="Models\" />
+    <Folder Include="Contracts\Infrastructure\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HRLeaveManagement.Domain.csproj" />

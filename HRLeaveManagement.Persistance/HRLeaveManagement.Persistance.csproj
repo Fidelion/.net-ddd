@@ -12,15 +12,34 @@
     <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
     <None Remove="Microsoft.Extensions.Options.ConfigurationExtensions" />
     <None Remove="Repositories\" />
+    <None Remove="Microsoft.EntityFrameworkCore.Design" />
+    <None Remove="Microsoft.Extensions.Configuration.Abstractions" />
+    <None Remove="Microsoft.Extensions.Configuration.FileExtensions" />
+    <None Remove="Microsoft.Extensions.Configuration.Json" />
+    <None Remove="Configurations\" />
+    <None Remove="Configurations\Entities\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.6" />
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.6">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HRLeaveManagement.Domain\HRLeaveManagement.Application\HRLeaveManagement.Application.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Repositories\" />
+    <Folder Include="Configurations\" />
+    <Folder Include="Configurations\Entities\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="HRLeaveManagement.Infrastructure\Mail\EmailSender.cs" />
+    <Compile Remove="HRLeaveManagement.Infrastructure\InfrastructureServicesRegistration.cs" />
   </ItemGroup>
 </Project>

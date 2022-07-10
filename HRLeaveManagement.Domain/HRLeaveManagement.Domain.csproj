@@ -13,6 +13,27 @@
     <None Remove="MediatR.Extensions.Microsoft.DependencyInjection" />
     <None Remove="FluentValidation.DependencyInjectionExtensions" />
     <None Remove="AutoMapper.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="HRLeaveManagement.Application\bin\Debug\net6.0\HRLeaveManagement.Application.deps.json" />
+    <None Remove="HRLeaveManagement.Application\bin\Debug\net6.0\HRLeaveManagement.Domain.pdb" />
+    <None Remove="HRLeaveManagement.Application\bin\Debug\net6.0\HRLeaveManagement.Application.pdb" />
+    <None Remove="HRLeaveManagement.Application\bin\Debug\net6.0\HRLeaveManagement.Domain.dll" />
+    <None Remove="HRLeaveManagement.Application\bin\Debug\net6.0\HRLeaveManagement.Application.dll" />
+    <None Remove="HRLeaveManagement.Application\obj\HRLeaveManagement.Application.csproj.nuget.g.props" />
+    <None Remove="HRLeaveManagement.Application\obj\HRLeaveManagement.Application.csproj.nuget.dgspec.json" />
+    <None Remove="HRLeaveManagement.Application\obj\project.nuget.cache" />
+    <None Remove="HRLeaveManagement.Application\obj\project.assets.json" />
+    <None Remove="HRLeaveManagement.Application\obj\HRLeaveManagement.Application.csproj.nuget.g.targets" />
+    <None Remove="HRLeaveManagement.Application\obj\Debug\net6.0\HRLeaveManagement.Application.csproj.CopyComplete" />
+    <None Remove="HRLeaveManagement.Application\obj\Debug\net6.0\HRLeaveManagement.Application.csproj.FileListAbsolute.txt" />
+    <None Remove="HRLeaveManagement.Application\obj\Debug\net6.0\HRLeaveManagement.Application.csproj.CoreCompileInputs.cache" />
+    <None Remove="HRLeaveManagement.Application\obj\Debug\net6.0\HRLeaveManagement.Application.AssemblyInfoInputs.cache" />
+    <None Remove="HRLeaveManagement.Application\obj\Debug\net6.0\HRLeaveManagement.Application.pdb" />
+    <None Remove="HRLeaveManagement.Application\obj\Debug\net6.0\HRLeaveManagement.Application.assets.cache" />
+    <None Remove="HRLeaveManagement.Application\obj\Debug\net6.0\HRLeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Remove="HRLeaveManagement.Application\obj\Debug\net6.0\HRLeaveManagement.Application.csproj.AssemblyReference.cache" />
+    <None Remove="HRLeaveManagement.Application\obj\Debug\net6.0\HRLeaveManagement.Application.dll" />
+    <None Remove="HRLeaveManagement.Application\obj\Debug\net6.0\ref\HRLeaveManagement.Application.dll" />
+    <None Remove="HRLeaveManagement.Application\obj\Debug\net6.0\refint\HRLeaveManagement.Application.dll" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Common\" />
@@ -21,5 +42,76 @@
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
     <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.1.0" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="HRLeaveManagement.Application\ApplicationServicesRegistration.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Contracts\Persistance\ILeaveTypeRepository.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Contracts\Persistance\ILeaveRequestRepository.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Contracts\Persistance\IGenericRepository.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Contracts\Persistance\ILeaveAllocationRepository.cs" />
+    <Compile Remove="HRLeaveManagement.Application\obj\Debug\net6.0\HRLeaveManagement.Application.AssemblyInfo.cs" />
+    <Compile Remove="HRLeaveManagement.Application\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Remove="HRLeaveManagement.Application\obj\Debug\net6.0\HRLeaveManagement.Application.GlobalUsings.g.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveTypes\Requests\Queries\GetLeaveTypeListQuery.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveTypes\Requests\Queries\GetLeaveTypeDetailQuery.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveTypes\Requests\Commands\CreateLeaveTypeCommand.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveTypes\Requests\Commands\DeleteLeaveTypeCommand.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveTypes\Requests\Commands\UpdateLeaveTypeCommand.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveTypes\Handlers\Queries\GetLeaveTypeDetailQueryHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveTypes\Handlers\Queries\GetLeaveTypeListQueryHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveTypes\Handlers\Commands\UpdateLeaveTypeCommandHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveTypes\Handlers\Commands\DeleteLeaveTypeCommandHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveTypes\Handlers\Commands\CreateLeaveTypeCommandHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveAllocations\Requests\Queries\GetLeaveAllocationListQuery.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveAllocations\Requests\Queries\GetLeaveAllocationDetailQuery.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveAllocations\Requests\Commands\CreateLeaveAllocationCommand.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveAllocations\Requests\Commands\UpdateLeaveAllocationCommand.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveAllocations\Requests\Commands\DeleteLeaveAllocationCommand.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveAllocations\Handlers\Queries\GetLeaveAllocationDetailQueryHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveAllocations\Handlers\Queries\GetLeaveAllocationListRequestHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveAllocations\Handlers\Commands\UpdateLeaveAllocationCommandHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveAllocations\Handlers\Commands\CreateLeaveAllocationCommandHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveAllocations\Handlers\Commands\DeleteLeaveAllocationCommandHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveRequests\Requests\Queries\GetLeaveRequestDetailQuery.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveRequests\Requests\Queries\GetLeaveRequestListQuery.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveRequests\Requests\Commands\UpdateLeaveRequestCommand.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveRequests\Requests\Commands\CreateLeaveRequestCommand.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveRequests\Requests\Commands\DeleteLeaveRequestCommand.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveRequests\Handlers\Queries\GetLeaveRequestListQueryHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveRequests\Handlers\Queries\GetLeaveRequestDetailQueryHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveRequests\Handlers\Commands\CreateLeaveRequestCommandHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveRequests\Handlers\Commands\UpdateLeaveRequestCommandHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Features\LeaveRequests\Handlers\Commands\DeleteLeaveRequestCommandHandler.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Responses\BaseCommandResponse.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Exceptions\BadRequestException.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Exceptions\NotFoundException.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Exceptions\ValidationException.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveAllocation\ILeaveAllocationDto.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveAllocation\CreateLeaveAllocationDto.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveAllocation\UpdateLeaveAllocationDto.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveAllocation\LeaveAllocationDto.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveAllocation\Validators\CreateLeaveAllocationDtoValidator.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveAllocation\Validators\ILeaveAllocationDtoValidator.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveAllocation\Validators\UpdateLeaveAllocationDtoValidator.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveRequest\ILeaveRequestDto.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveRequest\UpdateLeaveRequestDto.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveRequest\LeaveRequestDto.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveRequest\ChangeLeaveRequestApprovalDto.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveRequest\LeaveRequestListDto.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveRequest\CreateLeaveRequestDto.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveRequest\Validators\ILeaveRequestDtoValidator.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveRequest\Validators\CreateLeaveRequestDtoValidator.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveRequest\Validators\UpdateLeaveRequestDtoValidator.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveType\CreateLeaveTypeDto.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveType\ILeaveTypeDto.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveType\LeaveTypeDto.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveType\Validators\ILeaveTypeDtoValidator.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveType\Validators\UpdateLeaveTypeDtoValidator.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\LeaveType\Validators\CreateLeaveTypeDtoValidator.cs" />
+    <Compile Remove="HRLeaveManagement.Application\DTOs\Common\BaseDto.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Profiles\MappingProfile.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Contracts\Infrastructure\IEmailSender.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Models\Email.cs" />
+    <Compile Remove="HRLeaveManagement.Application\Models\EmailSettings.cs" />
   </ItemGroup>
 </Project>

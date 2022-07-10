@@ -10,3 +10,8 @@
 /Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/HRLeaveManagement.Infrastructure/obj/Debug/net6.0/refint/HRLeaveManagement.Infrastructure.dll
 /Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/HRLeaveManagement.Infrastructure/obj/Debug/net6.0/HRLeaveManagement.Infrastructure.pdb
 /Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/HRLeaveManagement.Infrastructure/obj/Debug/net6.0/ref/HRLeaveManagement.Infrastructure.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/HRLeaveManagement.Infrastructure/bin/Debug/net6.0/HRLeaveManagement.Application.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/HRLeaveManagement.Infrastructure/bin/Debug/net6.0/HRLeaveManagement.Domain.dll
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/HRLeaveManagement.Infrastructure/bin/Debug/net6.0/HRLeaveManagement.Application.pdb
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/HRLeaveManagement.Infrastructure/bin/Debug/net6.0/HRLeaveManagement.Domain.pdb
+/Users/daviddamljanovic/Projects/ddd/HRLeaveManagement/HRLeaveManagement.Persistance/HRLeaveManagement.Infrastructure/obj/Debug/net6.0/HRLeaveManagement.Infrastructure.csproj.CopyComplete
